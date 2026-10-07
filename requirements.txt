@@ -1,0 +1,12 @@
+torch
+torchaudio
+transformers
+faster-whisper
+librosa
+spacy
+lightgbm
+catboost
+scikit-learn
+scipy
+pandas
+numpy
